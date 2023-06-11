@@ -1,7 +1,24 @@
-@import "utils";
-@import "fonts";
-@import "typography";
+@import "./utils/variables.scss";
+@import "./utils/mixins.scss";
+@import "reset.scss";
 
-body {
-  background: $c-gray;
-}
+@import "blocks/page";
+@import "blocks/header";
+@import "blocks/top-bar";
+@import "blocks/icon";
+@import "blocks/menu";
+@import "blocks/nav";
+@import "blocks/conteiner.scss";
+@import "blocks/block-main.scss";
+@import "blocks/section-title.scss";
+@import "blocks/about-us.scss";
+
+@import "blocks/compare-bike.scss";
+@import "blocks/product.scss";
+
+@import "blocks/details.scss";
+@import "blocks/detail.scss";
+
+@import "blocks/contacts.scss";
+
+@import "blocks/footer.scss";
