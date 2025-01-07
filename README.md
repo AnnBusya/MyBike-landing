@@ -1,19 +1,19 @@
-# MyBike:bicyclist:
+# MyBike :bicyclist:
 
 The landing page for a bike store showcases the primary offerings and services of the shop. 
 It highlights the store's featured products, provides a comparison of the most popular bike models, and a convenient form for contacting the seller.
 
-## Technological stack: 
-- HTML
-- JavaScript 
-- CSS (Sass)
+## Technological Stack
+- **HTML**
+- **JavaScript**
+- **CSS (Sass)**
 
-## Applied approaches: 
-- BEM structure 
-- Pixel perfect 
-- Responsive design (mobile first)
-  - media queries
-  - flexbox або CSS Grid
+## Applied Approaches
+- **BEM structure** for CSS organization
+- **Pixel perfect** to ensure precise alignment with the design
+- **Responsive design** (mobile-first approach):
+  - Media queries for different screen sizes
+  - Flexbox and CSS Grid for layout management
    
 ### Link to the preview:
 [DEMO LINK](https://annbusya.github.io/MyBike-landing/)
